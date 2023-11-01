@@ -39,9 +39,9 @@ const EmailSection = () => {
         <div className="z-10">
             <h5 className="text-xl font-bold text-white my-2">Let's Connect</h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
-            I'm always open to new opportunities, collaboration, and discussing potential projects. 
+            I`m always open to new opportunities, collaboration, and discussing potential projects. 
             Feel free to get in touch with me. 
-            Let's connect and explore how we can work together to bring your ideas to life.</p>
+            Let`s connect and explore how we can work together to bring your ideas to life.</p>
             <p ><a href="mailto:Hajsawood1996@gmail.com" className="mb-4 max-w-md font-bold text-white text-xl hover:underline">Mail: hajsawood1996@gmail.com</a></p>
             <p className="mb-5"><a href="tel:+919881145895" className=" mb-4 max-w-md font-bold text-white text-xl hover:underline">Call me</a></p>
             <div className="socials flex flex-row gap-2 ">
