@@ -44,7 +44,7 @@ const HeroSection = () => {
 
             </h1>
         <p className="text-[#ADB7BE] text-base sm:mb-6 text-lg lg:text-xl">
-            Welcome to Sawood Hajwane's Development Portfolio! This website serves as a showcase of my skills, experiences, and projects as a software developer. Whether you're an employer looking for a talented developer or just curious about my work, you've come to the right place.
+            Welcome to Sawood Hajwane`s Development Portfolio! This website serves as a showcase of my skills, experiences, and projects as a software developer. Whether you`re an employer looking for a talented developer or just curious about my work, you`ve come to the right place.
             </p>
             <div>
                 <button onClick={handleHireMeClick} className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-cyan-500 via-primary-500 to-secondary-500 hover:bg-slate-200 text-white">Hire me</button>
