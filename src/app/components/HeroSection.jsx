@@ -9,8 +9,8 @@ import { TypeAnimation } from 'react-type-animation';
 const HeroSection = () => {
   const handleDownload = () => {
     const downloadLink = document.createElement('a');
-    downloadLink.href = '/resume6-9.pdf'; // Path to your resume.pdf in the public folder.
-    downloadLink.download = 'resume6-9.pdf'; // The default file name when downloading.
+    downloadLink.href = '/resume4-11.pdf'; // Path to your resume.pdf in the public folder.
+    downloadLink.download = 'resume4-11.pdf'; // The default file name when downloading.
     downloadLink.click();
   };
   const handleHireMeClick = () => {
